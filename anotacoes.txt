@@ -1,0 +1,33 @@
+git add .
+git commit -m "Deploy"
+git push heroku master
+----
+
+api/routes/routes.ts
+modules/User/routes.ts
+modules/User/controller.ts
+modules/User/service.ts
+
+---
+
+
+permissoes
+empresa
+- usuario
+--- usuarioloja
+- loja
+- pdv
+- produtocategoria
+- produto
+- produtomodificador
+- produtohistorico
+- desconto
+- pessoa
+- moeda
+- pedido
+- pedidoitem
+- pedidofechamento
+- ajusteproduto
+- compra
+- compraitem
+
