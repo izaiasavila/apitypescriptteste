@@ -1,7 +1,11 @@
-# apinodeteste
+# apitypescriptteste
 
-Exemplo de uma API REST em NodeJS
+Exemplo de uma API REST
 
-CRUD com Autenticação, Refresh Token
+CRUD com Autenticação
 
-NODEJS, EXPRESS, MONGODB
+TypeScript, Node, ES6 e Postgres
+
+Teste (TDD)
+
+Automatização de tarefas com Gulp
